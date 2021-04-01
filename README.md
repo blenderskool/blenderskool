@@ -1,11 +1,10 @@
-### Hey there 👋
 <h3>
+  Hey there 👋<br>
   I'm
   <a href="#">
     <img src="https://img.akashhamirwasia.com/akash-animated.svg" width="177" height="18">
   </a>
 </h3>
-
 
 <!--
 - 🔭 I’m currently working on ...
@@ -45,4 +44,3 @@
 
 **Fun fact ⚡**
 - I occasionally work on 3D graphics with **[Blender](https://blender.org)**
-- I start studying a day before an exam 😄
