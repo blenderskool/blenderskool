@@ -18,12 +18,13 @@
 -->
 
 #### About 🌏
-- I build innovative products on the web with great design.
+- I build innovative and useful products on the web with great user experience.
 - I'm a 3rd year Computer Science student at **[PES University](https://pes.edu)**.
 
 #### Work 🔭
-- Building **[Turtlewig](https://turtlewig.com)**
-- Interned as frontend engineer at **[smallcase](https://smallcase.com)**
+- Interned as software engineer at **[Akamai Technologies](https://akamai.com)** in summer 2021.
+- Interned as frontend engineer at **[smallcase](https://smallcase.com)** in summer 2020.
+- Building **[Blaze](https://blaze.now.sh)** and **[Turtlewig](https://turtlewig.com)** in my free time.
 
 #### Current Interests 🌱
 - **[React](https://reactjs.org)**
