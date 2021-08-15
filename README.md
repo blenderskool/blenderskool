@@ -19,7 +19,7 @@
 
 #### About 🌏
 - I build innovative and useful products on the web with great user experience.
-- I'm a 3rd year Computer Science student at **[PES University](https://pes.edu)**.
+- I'm a final year Computer Science student at **[PES University](https://pes.edu)**.
 
 #### Work 🔭
 - Interned as software engineer at **[Akamai Technologies](https://akamai.com)** in summer 2021.
