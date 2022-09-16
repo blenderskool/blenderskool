@@ -48,3 +48,18 @@
 **Fun facts ⚡**
 - I occasionally work on 3D graphics with **[Blender](https://blender.org)**
 - I enjoy playing Tennis 🎾
+
+#### Amazing folks who sponsor my work 💚
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+          <td align="center">
+            <a href="https://github.com/shivaylamba">
+              <img src="https://github.com/shivaylamba.png" width="64" />
+              <br>
+              <strong><sub>Shivay Lamba</sub></strong>
+            </a>
+          </td>
+        </tr>
+    </tbody>
+</table>
