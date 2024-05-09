@@ -22,23 +22,23 @@
 - I'm curious about how things work and often try to learn by breaking them apart.
 
 #### Work 🔭
-- Software development engineer at **[Razorpay](https://razorpay.com)** (Present).
-- Software development engineering intern at **[Razorpay](https://razorpay.com)** in spring 2022.
-- Software engineering intern at **[Akamai Technologies](https://akamai.com)** in summer 2021.
-- Frontend engineering intern at **[smallcase](https://smallcase.com)** in summer 2020.
+- Frontend Engineer at **[Razorpay](https://razorpay.com)** (Present).
+- Software Development Engineering Intern at **[Razorpay](https://razorpay.com)** in spring 2022.
+- Software Engineering Intern at **[Akamai Technologies](https://akamai.com)** in summer 2021.
+- Frontend Engineering Intern at **[smallcase](https://smallcase.com)** in summer 2020.
 - Building **[Slant it](https://slantit.app)** and **[Blaze](https://blaze.now.sh)** in my free time.
 
 #### Current Interests 🌱
 - **[React](https://reactjs.org)**
-- **[Typescript](https://www.typescriptlang.org/)**
-- **[Tailwind CSS](https://tailwindcss.com)**
-- Graph Theory
+- **[Typescript](https://typescriptlang.org/)**
+- **WebGL**
+- Go
 - Compiler Design
-- Generic Programming
+- Graph Theory
 
-#### Ask me about 💬
+#### Love taking about 💬
 - Frontend development
-- UI design
+- Building products
 - Open source
 
 #### Get in touch 📫
