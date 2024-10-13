@@ -22,11 +22,13 @@
 - I'm curious about how things work and often try to learn by breaking them apart.
 
 #### Work 🔭
-- Frontend Engineer at **[Razorpay](https://razorpay.com)** (Present).
-- Software Development Engineering Intern at **[Razorpay](https://razorpay.com)** in spring 2022.
-- Software Engineering Intern at **[Akamai Technologies](https://akamai.com)** in summer 2021.
-- Frontend Engineering Intern at **[smallcase](https://smallcase.com)** in summer 2020.
-- Building **[Slant it](https://slantit.app)** and **[Blaze](https://blaze.now.sh)** in my free time.
+- **[ElevenLabs](https://elevenlabs.io)  — Frontend Engineer (Present).**
+- **[Razorpay](https://razorpay.com)**
+  - Frontend Engineer (Jul 2022 — Aug 2024).
+  - Sofware Engineering Intern (Spring 2022).
+- **[Akamai](https://akamai.com)** — Software Engineering Intern (Summer 2021).
+- **[smallcase](https://smallcase.com)** — Frontend Engineering Intern (Summer 2020).
+- Building **[Slant it 🎬](https://slantit.app)** and **[Blaze ⚡](https://blaze.now.sh)** in my free time.
 
 #### Current Interests 🌱
 - **[React](https://reactjs.org)**
