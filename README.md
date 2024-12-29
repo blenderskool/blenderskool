@@ -62,13 +62,6 @@
               <strong><sub>Shivay Lamba</sub></strong>
             </a>
           </td>
-          <td align="center">
-            <a href="https://github.com/animysore">
-              <img src="https://github.com/animysore.png" width="64" />
-              <br>
-              <strong><sub>Aniruddha Mysore</sub></strong>
-            </a>
-          </td>
         </tr>
     </tbody>
 </table>
