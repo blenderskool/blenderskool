@@ -56,10 +56,10 @@
     <tbody>
         <tr valign="top">
           <td align="center">
-            <a href="https://github.com/shivaylamba">
-              <img src="https://github.com/shivaylamba.png" width="64" />
+            <a href="https://github.com/saurabhdaware">
+              <img src="https://github.com/saurabhdaware.png" width="64" />
               <br>
-              <strong><sub>Shivay Lamba</sub></strong>
+              <strong><sub>Saurabh Daware</sub></strong>
             </a>
           </td>
         </tr>
