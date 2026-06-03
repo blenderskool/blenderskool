@@ -51,6 +51,7 @@
 - I occasionally work on 3D graphics with **[Blender](https://blender.org)**
 - I enjoy playing Tennis 🎾
 
+<!-- 
 #### Amazing folks who sponsor my work 💚
 <table width="320px">
     <tbody>
@@ -65,3 +66,4 @@
         </tr>
     </tbody>
 </table>
+ -->
